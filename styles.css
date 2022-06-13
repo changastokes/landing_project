@@ -102,7 +102,7 @@ h1 {
     
 }
 
-img {
+.r {
     height: 200px;
     width: 200px;
     margin: 20px;
@@ -144,6 +144,58 @@ img {
     font-size: 25px;
 
 }
+
+/*sec 3*/
+
+.action-wrapper {
+    margin: 100px;
+
+}
+
+.action-container {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+h3 {
+    color: #E5E7EB;
+    padding: 0;
+    margin: 0;
+}
+
+.action-text {
+   color: #E5E7EB;
+   padding-left: 0px;
+   margin: 0;
+
+}
+
+.submit-three {
+  border: 2px solid #E5E7EB; 
+  color: white;
+  background-color: #3882f6
+}
+
+
+
+  .footer-wrapper {
+      background-color: #1F2937;
+}
+
+
+.footer {
+    color: white;
+    text-align: center;
+    
+  }
+      
+
 
 
 
